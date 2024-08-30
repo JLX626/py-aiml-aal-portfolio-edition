@@ -94,13 +94,16 @@ Based on these insights, recommendations were made for:
 
 This project provides a comprehensive overview of the sales performance of Australian Apparel Limited (AAL) for the fourth quarter (Q4) of 2020. The insights and recommendations derived from this analysis aim to inform strategic decisions for future growth.
 
-## Contributors
+## About the Author
 
-This project was developed as part of the Applied Data Science with Python course in the AI and Machine Learning Bootcamp offered by [Caltech Center for Technology and Management Education](https://ctme.caltech.edu/).
+Jason Lampitt is an accomplished learning product manager with over 25 years of leadership across high-profile industries, now expanding expertise into AI and Machine Learning through Caltech's CTME program. With a strong foundation in entertainment, luxury hospitality, high net-worth real estate, biotechnology, corporate learning, and diverse technology sectors, Jason directs the strategic vision and execution of innovative digital products. His focus is on creating transformative user experiences that set industry standards and achieve business objectives. Leveraging new skills in AI and Machine Learning, Jason combines data-driven insights with leading-edge technology to transform complex challenges into innovative, scalable learning solutions.
+
+[Connect with Jason on LinkedIn](https://www.linkedin.com/in/jlampitt/)
 
 ## Statement of Original Work
 
-This project represents my individual effort in analyzing the provided dataset for the fictional company, Australian Apparel Limited (AAL). All data cleaning, analysis, visualization, and interpretation presented in this project are the result of my own work. I applied concepts and techniques learned in the Applied Data Science with Python course, using standard libraries and following best practices taught in the course. The specific implementation, analysis decisions, and insights drawn are my own, reflecting my current understanding and application of data science principles and practices.
+This project represents my individual effort and original work. All data analysis, visualizations, and interpretations presented here are the result of my own work, leveraging the knowledge and skills gained from the Applied Data Science with Python course. While I have utilized standard libraries and followed best practices taught in the course, the specific implementation, analytical decisions, and insights drawn are my own. This work reflects my current understanding and application of data science principles and practices.
+
+This project was developed as part of the Applied Data Science with Python course in the AI and Machine Learning Bootcamp offered by [Caltech Center for Technology and Management Education](https://ctme.caltech.edu/).
 
 Thank you for reviewing my work.
-
